@@ -1,0 +1,34 @@
+2023-11-17 01:44:14  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-11-17 01:44:14  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-11-17 01:44:14  C:\raylib\npp\config.xml is opened.
+2023-11-17 01:44:14  C:\raylib\npp\config.xml  10000/10000 bytes are written.
+2023-11-17 01:44:14  C:\raylib\npp\config.xml is closed.
+2023-11-17 01:44:14  C:\raylib\npp\session.xml is opened.
+2023-11-17 01:44:14  C:\raylib\npp\session.xml  4781/4781 bytes are written.
+2023-11-17 01:44:14  C:\raylib\npp\session.xml is closed.
+2023-11-17 01:44:14  WM_DESTROY (isEndSessionStarted == true)
+2023-12-25 23:48:54  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-12-25 23:49:47  WM_ENDSESSION (wParam: FALSE, lParam: 0 - ordinary system shutdown/restart)
+2023-12-25 23:50:34  D:\GroupProjects\OhChristmasTree\SpawnPerson.h is opened.
+2023-12-25 23:50:35  D:\GroupProjects\OhChristmasTree\SpawnPerson.h  377/377 bytes are written.
+2023-12-25 23:50:35  D:\GroupProjects\OhChristmasTree\SpawnPerson.h is closed.
+2023-12-25 23:50:42  WM_CLOSE (isEndSessionStarted == true)
+2023-12-25 23:50:47  D:\GroupProjects\OhChristmasTree\PlayerEntity.h is opened.
+2023-12-25 23:50:47  D:\GroupProjects\OhChristmasTree\PlayerEntity.h  247/247 bytes are written.
+2023-12-25 23:50:47  D:\GroupProjects\OhChristmasTree\PlayerEntity.h is closed.
+2023-12-25 23:50:47  C:\raylib\npp\config.xml is opened.
+2023-12-25 23:50:47  C:\raylib\npp\config.xml  10444/10444 bytes are written.
+2023-12-25 23:50:47  C:\raylib\npp\config.xml is closed.
+2023-12-25 23:50:47  C:\raylib\npp\session.xml is opened.
+2023-12-25 23:50:47  C:\raylib\npp\session.xml  4195/4195 bytes are written.
+2023-12-25 23:50:47  C:\raylib\npp\session.xml is closed.
+2023-12-25 23:50:47  WM_DESTROY (isEndSessionStarted == true)
+2023-12-26 12:27:23  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-12-26 12:27:24  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-12-26 12:27:24  C:\raylib\npp\config.xml is opened.
+2023-12-26 12:27:24  C:\raylib\npp\config.xml  10450/10450 bytes are written.
+2023-12-26 12:27:24  C:\raylib\npp\config.xml is closed.
+2023-12-26 12:27:24  C:\raylib\npp\session.xml is opened.
+2023-12-26 12:27:24  C:\raylib\npp\session.xml  3618/3618 bytes are written.
+2023-12-26 12:27:24  C:\raylib\npp\session.xml is closed.
+2023-12-26 12:27:24  WM_DESTROY (isEndSessionStarted == true)
